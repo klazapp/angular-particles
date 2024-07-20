@@ -1,5 +1,11 @@
 {
   "name": "angular-particles-library",
+  "author": "Klazapp",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klazapp/angular-particles.git"
+  },
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
